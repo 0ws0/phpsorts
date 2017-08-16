@@ -1,5 +1,5 @@
 {
-    "name": "0ws0/phpsort",
+    "name": "0ws0/phpsorts",
     "type": "library",
     "require": {
         "php": ">5.4"
