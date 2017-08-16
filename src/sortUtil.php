@@ -1,7 +1,7 @@
 <?php
-namespace UsualSortUtil;
+namespace phpsorts;
 
-class PhpSort
+class sortUtil
 {
 
     /*
